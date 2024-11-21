@@ -1,0 +1,3 @@
+Added Component: Designator=TFT1(N114-2413THBIG01-H13)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2890618"; VariantName = "[No Variations]"
+Added Class: Name=ESP32

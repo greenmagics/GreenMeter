@@ -1,0 +1,6 @@
+Added Component: Designator=U1(ESP32-S2-MINI-1-N4_EXP)
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C3013908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ESP32 Member=Component U1 ESP32-S2-MINI-2-N4R2
